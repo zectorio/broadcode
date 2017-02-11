@@ -1,0 +1,10 @@
+{
+  "name": "broadcode",
+  "version": "0.1.0",
+  "description": "Convert Broad strokes of Code to Graphviz Dot files",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "Jayesh Salvi",
+  "license": "MIT"
+}
