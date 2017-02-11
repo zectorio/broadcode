@@ -39,7 +39,7 @@ ${tablemarkup}
     // Connections to other nodes
     if(members) {
       for(let member of members) {
-        nodedefs += `${member}:cls -> ${key}:cls\n`;
+        nodedefs += `${member}:cls -> ${key}:cls [arrowhead=odiamond]\n`;
       }
     }
 
